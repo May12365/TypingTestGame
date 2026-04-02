@@ -5,7 +5,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/May12365/TypingTestGame?style=social)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-A simple and interactive **Typing Speed Test Game** built using HTML, CSS, and JavaScript.  
+A simple and interactive **Typing Speed Test Game** built using HTML, CSS, and JavaScript.
 Test your typing speed, accuracy, and performance in real-time.
 
 ---
@@ -18,103 +18,124 @@ Test your typing speed, accuracy, and performance in real-time.
 
 ## 📌 Features
 
-- ⏱️ 60-second countdown timer
-- ⚡ Real-time **WPM (Words Per Minute)** calculation
-- 🔤 **CPM (Characters Per Minute)**
-- ❌ Mistake tracking system
-- 🎯 Accuracy feedback via correct/incorrect highlighting
-- 🔄 Reset / Try Again functionality
-- 📝 Random paragraph generation
-- 💻 Simple and clean UI
+* ⏱️ 60-second countdown timer
+* ⚡ Real-time **WPM (Words Per Minute)** calculation
+* 🔤 **CPM (Characters Per Minute)**
+* ❌ Mistake tracking system
+* 🎯 Accuracy feedback via correct/incorrect highlighting
+* 🔄 Reset / Try Again functionality
+* 📝 Random paragraph generation
+* 💻 Simple and clean UI
 
 ---
 
 ## 🧠 How It Works
 
-- Random paragraph is loaded from `paragraphs.js`
-- Each character is wrapped in `<span>` for tracking
-- User input is compared character-by-character
-- Metrics are calculated dynamically:
-  - WPM = ((typed characters - mistakes) / 5) / time * 60
-- Timer starts when user begins typing
+* Random paragraph is loaded from `paragraphs.js`
+* Each character is wrapped in `<span>` for tracking
+* User input is compared character-by-character
+* Metrics are calculated dynamically:
+
+  * `WPM = ((typed characters - mistakes) / 5) / time * 60`
+* Timer starts when user begins typing
 
 ---
 
 ## 🛠️ Tech Stack
 
-- HTML5
-- CSS3
-- Vanilla JavaScript
+* HTML5
+* CSS3
+* Vanilla JavaScript
 
 ---
 
 ## 📂 Project Structure
-TypingTestGame/
-│── index.html # Main UI
-│── style.css # Styling
-│── js/
-│ ├── script.js # Game logic
-│ └── paragraphs.js # Text data source
 
+```
+TypingTestGame/
+│── index.html              # Main UI
+│── style.css               # Styling
+│── js/
+│   ├── script.js           # Game logic
+│   └── paragraphs.js       # Text data source
+```
 
 ---
 
-## ⚙️ Installation & Usage
-⚙️ Installation Guide
+## ⚙️ Installation
 
-Follow the steps below to set up and run the project locally:
-
-## 1. Clone the Repository
+```bash
 git clone https://github.com/May12365/TypingTestGame.git
-## 2. Navigate to the Project Directory
 cd TypingTestGame
-## 3. Launch the Application
-Since this is a client-side web application, no build tools or dependencies are required.
+```
 
-Simply open the index.html file in your preferred web browser:
+Open `index.html` in a modern web browser, or run via a local development server (e.g., VS Code Live Server).
 
-# Option 1: Open manually
-Double-click index.html
+---
 
-# Option 2: Use VS Code Live Server (recommended)
-Right-click → "Open with Live Server"
+## 🎮 How to Play
 
-🎮 How to Play
-Start typing the given text
-Track your performance:
-WPM
-CPM
-Mistakes
-Complete before time runs out
-Click Try Again to restart
-📸 Demo (Recommended)
+1. Start typing the given text
+2. Track your performance:
 
-Add GIF here using tools like:
+   * WPM
+   * CPM
+   * Mistakes
+3. Complete before time runs out
+4. Click **Try Again** to restart
 
-ScreenToGif
-LICEcap
-🚀 Deploy on GitHub Pages
-Go to Settings
-Click Pages
-Select:
-Branch: main
-Folder: /root
-Save
+---
 
-Your site will be live at:
+## 📸 Demo
 
+> Add a GIF demo using tools like:
+>
+> * ScreenToGif
+> * LICEcap
+
+---
+
+## 🚀 Deploy on GitHub Pages
+
+1. Go to **Settings**
+2. Click **Pages**
+3. Under **Branch**, select:
+
+   * `main`
+   * `/ (root)`
+4. Click **Save**
+
+Your site will be available at:
+
+```
 https://<your-username>.github.io/TypingTestGame/
+```
 
+---
+
+## 🤝 Contributing
 
 Contributions are welcome!
 
-##Fork this repo
-Create a new branch
-Commit your changes
-Submit a Pull Request
-📜 License
+1. Fork this repository
+2. Create a new branch
+3. Commit your changes
+4. Submit a Pull Request
+
+---
+
+## 📜 License
 
 This project is licensed under the MIT License.
 
-##👤 Author
-GitHub: https://github.com/May12365
+---
+
+## 👤 Author
+
+* GitHub: https://github.com/May12365
+
+---
+
+## ⭐ Support
+
+If you found this project useful, please consider giving it a ⭐!
