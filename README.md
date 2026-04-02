@@ -1,43 +1,18 @@
-﻿# TypingTestGame
 # ⌨️ Typing Test Game
 
-![GitHub repo size](https://img.shields.io/github/repo-size/May12365/TypingTestGame)
-![GitHub stars](https://img.shields.io/github/stars/May12365/TypingTestGame?style=social)
-![GitHub forks](https://img.shields.io/github/forks/May12365/TypingTestGame?style=social)
-![License](https://img.shields.io/badge/license-MIT-green)
-
-A simple and interactive **Typing Speed Test Game** built using HTML, CSS, and JavaScript.  
-Test your typing speed, accuracy, and performance in real-time.
+A simple and interactive **Typing Speed Test Game** built with web technologies.  
+Improve your typing speed, accuracy, and consistency in real-time.
 
 ---
 
-## 🌐 Live Demo
+## 🚀 Features
 
-👉 https://may12365.github.io/TypingTestGame/
-
----
-
-## 📌 Features
-
-- ⏱️ 60-second countdown timer
-- ⚡ Real-time **WPM (Words Per Minute)** calculation
-- 🔤 **CPM (Characters Per Minute)**
-- ❌ Mistake tracking system
-- 🎯 Accuracy feedback via correct/incorrect highlighting
-- 🔄 Reset / Try Again functionality
-- 📝 Random paragraph generation
-- 💻 Simple and clean UI
-
----
-
-## 🧠 How It Works
-
-- Random paragraph is loaded from `paragraphs.js`
-- Each character is wrapped in `<span>` for tracking
-- User input is compared character-by-character
-- Metrics are calculated dynamically:
-  - WPM = ((typed characters - mistakes) / 5) / time * 60
-- Timer starts when user begins typing
+- ⏱️ Real-time typing test with countdown timer
+- ⚡ Measure **WPM (Words Per Minute)** and **CPM (Characters Per Minute)**
+- 🎯 Accuracy and mistake tracking
+- 🔄 Restart / Try Again functionality
+- 📝 Random text/paragraph generation
+- 💻 Clean and responsive UI
 
 ---
 
@@ -45,7 +20,7 @@ Test your typing speed, accuracy, and performance in real-time.
 
 - HTML5
 - CSS3
-- Vanilla JavaScript
+- JavaScript (Vanilla JS)
 
 ---
 
