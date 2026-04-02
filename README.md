@@ -11,7 +11,7 @@ Test your typing speed, accuracy, and performance in real-time.
 
 ## 🌐 Live Demo
 
-👉 https://typingtestgames.netlify.app/
+👉 
 
 ---
 
