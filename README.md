@@ -107,5 +107,3 @@ This project is created for **educational and portfolio purposes**.
 
 ---
 
-
-If you found this project useful, please consider giving it a ⭐!
