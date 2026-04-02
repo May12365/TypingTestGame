@@ -45,7 +45,7 @@ Test your typing speed, accuracy, and performance in real-time.
 
 * HTML5
 * CSS3
-* Vanilla JavaScript
+* JavaScript
 
 ---
 
@@ -75,14 +75,15 @@ Open `index.html` in a modern web browser, or run via a local development server
 
 ## 🎮 How to Play
 
-1. Start typing the given text
-2. Track your performance:
-
-   * WPM
-   * CPM
-   * Mistakes
-3. Complete before time runs out
-4. Click **Try Again** to restart
+1. A random paragraph will appear on the screen.  
+2. Start typing the text **exactly as displayed**.  
+3. Your typing performance will be tracked in real-time:
+   - WPM (Words Per Minute)  
+   - CPM (Characters Per Minute)  
+   - Mistakes  
+4. Each incorrect character will be counted as a mistake.  
+5. Complete the test before the **time limit expires**.  
+6. Click **"Try Again"** to restart and improve your score.   
 
 ---
 
@@ -95,39 +96,10 @@ Open `index.html` in a modern web browser, or run via a local development server
 
 ---
 
-## 🚀 Deploy on GitHub Pages
-
-1. Go to **Settings**
-2. Click **Pages**
-3. Under **Branch**, select:
-
-   * `main`
-   * `/ (root)`
-4. Click **Save**
-
-Your site will be available at:
-
-```
-https://<your-username>.github.io/TypingTestGame/
-```
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork this repository
-2. Create a new branch
-3. Commit your changes
-4. Submit a Pull Request
-
----
 
 ## 📜 License
 
-This project is licensed under the MIT License.
-
+This project is created for **educational and portfolio purposes**.
 ---
 
 ## 👤 Author
@@ -136,6 +108,5 @@ This project is licensed under the MIT License.
 
 ---
 
-## ⭐ Support
 
 If you found this project useful, please consider giving it a ⭐!
