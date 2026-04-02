@@ -12,7 +12,7 @@ Test your typing speed, accuracy, and performance in real-time.
 
 ## 🌐 Live Demo
 
-👉 https://may12365.github.io/TypingTestGame/
+👉 https://typingtestgames.netlify.app/
 
 ---
 
@@ -60,16 +60,24 @@ TypingTestGame/
 ---
 
 ## ⚙️ Installation & Usage
+⚙️ Installation Guide
 
-```bash
+Follow the steps below to set up and run the project locally:
+
+## 1. Clone the Repository
 git clone https://github.com/May12365/TypingTestGame.git
+## 2. Navigate to the Project Directory
 cd TypingTestGame
+## 3. Launch the Application
+Since this is a client-side web application, no build tools or dependencies are required.
 
-Then open:
+Simply open the index.html file in your preferred web browser:
 
-index.html
+# Option 1: Open manually
+Double-click index.html
 
-in your browser.
+# Option 2: Use VS Code Live Server (recommended)
+Right-click → "Open with Live Server"
 
 🎮 How to Play
 Start typing the given text
@@ -100,7 +108,7 @@ https://<your-username>.github.io/TypingTestGame/
 
 Contributions are welcome!
 
-Fork this repo
+##Fork this repo
 Create a new branch
 Commit your changes
 Submit a Pull Request
@@ -108,5 +116,5 @@ Submit a Pull Request
 
 This project is licensed under the MIT License.
 
-👤 Author
+##👤 Author
 GitHub: https://github.com/May12365
