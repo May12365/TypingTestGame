@@ -9,14 +9,14 @@ Test your typing speed, accuracy, and performance in real-time.
 
 ---
 ## 📸 Video Demo
-
-<video src="https://github.com/May12365/TypingTestGame/releases/download/v1.0.0/demo.mp4" autoplay loop muted></video>
-
+<p align="center">
+  <video src="https://github.com/May12365/TypingTestGame/releases/download/v1.0.0/demo.mp4"autoplay loop muted></video>
+</p>
 ---
 
 ## 🌐 Live Demo
 
-👉 
+👉https://typingtestgames.netlify.app/ 
 
 ---
 
