@@ -99,6 +99,7 @@ Open `index.html` in a modern web browser, or run via a local development server
 ## 📜 License
 
 This project is created for **educational and portfolio purposes**.
+
 ---
 
 ## 👤 Author
