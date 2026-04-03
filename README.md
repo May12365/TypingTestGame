@@ -8,6 +8,11 @@ A simple and interactive **Typing Speed Test Game** built using HTML, CSS, and J
 Test your typing speed, accuracy, and performance in real-time.
 
 ---
+## 📸 Video Demo
+
+<video src="https://github.com/May12365/TypingTestGame/releases/download/v1.0.0/demo.mp4" autoplay loop muted></video>
+
+---
 
 ## 🌐 Live Demo
 
@@ -83,12 +88,6 @@ Open `index.html` in a modern web browser, or run via a local development server
 4. Each incorrect character will be counted as a mistake.  
 5. Complete the test before the **time limit expires**.  
 6. Click **"Try Again"** to restart and improve your score.   
-
----
-
-## 📸 Demo
-
-<video src="https://github.com/May12365/TypingTestGame/releases/tag/v1.0.0/demo.mp4" autoplay loop muted></video>
 
 ---
 
