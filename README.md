@@ -88,10 +88,7 @@ Open `index.html` in a modern web browser, or run via a local development server
 
 ## 📸 Demo
 
-> Add a GIF demo using tools like:
->
-> * ScreenToGif
-> * LICEcap
+<video src="https://github.com/May12365/TypingTestGame/releases/tag/v1.0.0/demo.mp4" autoplay loop muted></video>
 
 ---
 
