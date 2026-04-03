@@ -10,7 +10,7 @@ Test your typing speed, accuracy, and performance in real-time.
 ---
 ## 📸 Video Demo
 <p align="center">
-  <video src="https://github.com/May12365/TypingTestGame/releases/download/v1.0.0/demo.mp4"autoplay loop muted></video>
+  <video src="https://github.com/May12365/TypingTestGame/releases/download/v1.0.0/demo.mp4"autoplay loop muted  width="700"></video>
 </p>
 
 ---
