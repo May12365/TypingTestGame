@@ -8,16 +8,17 @@ A simple and interactive **Typing Speed Test Game** built using HTML, CSS, and J
 Test your typing speed, accuracy, and performance in real-time.
 
 ---
-## 📸 Video Demo
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8598d027-dd73-4796-ac10-28b018384ec5" width="700">
-</p>
-
----
 
 ## 🌐 Live Demo
 
 👉https://typingtestgames.netlify.app/ 
+
+---
+
+## 📸 Video Demo
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8598d027-dd73-4796-ac10-28b018384ec5" width="700">
+</p>
 
 ---
 
