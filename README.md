@@ -2,7 +2,6 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/May12365/TypingTestGame)
 ![GitHub stars](https://img.shields.io/github/stars/May12365/TypingTestGame?style=social)
-![GitHub forks](https://img.shields.io/github/forks/May12365/TypingTestGame?style=social)
 
 A simple and interactive **Typing Speed Test Game** built using HTML, CSS, and JavaScript.
 Test your typing speed, accuracy, and performance in real-time.
